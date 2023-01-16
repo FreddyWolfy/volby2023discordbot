@@ -19,7 +19,7 @@ intents.message_content = True
 client = discord.Client(intents=intents)
 from discord.ext import commands
 
-discordtoken = "MTA2MzkyODU5NTc2NjA2NzIzMA.Gzvv2A.InRgc44e3ZlsWR-hhv_GGzOBtthKCp7HKOa8n8"
+discordtoken = "<Vas discord bot token>"
 
 embed = ""
 
